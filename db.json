@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "teamOne": "Chennai Super Kings",
+      "teamTwo": "Kolkata Knight Riders",
+      "trophy": "Team 1",
+      "conclusion": "Chennai Super kings won by 27 runs",
+      "date": "2021-10-14T18:30:00.000Z",
+      "venue": "Dubai",
+      "id": 1
+    },
+    {
+      "teamOne": "Mumbai Indians",
+      "teamTwo": "Delhi Capitals",
+      "trophy": "Team 1",
+      "conclusion": "Mumbai Indians won by 5 wickets",
+      "date": "2020-11-09T18:30:00.000Z",
+      "venue": "Dubai",
+      "id": 2
+    },
+    {
+      "teamOne": "Mumbai Indians",
+      "teamTwo": "Chennai Super Kings",
+      "trophy": "Team 1",
+      "conclusion": "Mumbai Indians won by 1 run\n",
+      "date": "2019-05-20T18:30:00.000Z",
+      "venue": "Hyderabad",
+      "id": 15
+    },
+    {
+      "teamOne": "Sunrisers Hyderbad",
+      "teamTwo": "Chennai Super Kings",
+      "trophy": "Team 2",
+      "conclusion": "Chennai Super Kings Won by 8 wickets",
+      "date": "2018-05-26T18:30:00.000Z",
+      "venue": "Mumbai",
+      "id": 4
+    },
+    {
+      "teamOne": "Rising Pune Supergaints",
+      "teamTwo": "Mumbai Indians",
+      "trophy": "Team 2",
+      "conclusion": "Mumbai Indians won by 1 run.",
+      "date": "2017-05-20T18:30:00.000Z",
+      "venue": "Hyderabad",
+      "id": 5
+    },
+    {
+      "teamOne": "Sunrisers Hyderabad",
+      "teamTwo": "Royal Challengers Bangalore",
+      "trophy": "Team 1",
+      "conclusion": "Sunrisers Hyderbad won by 8 runs.",
+      "date": "2016-05-28T18:30:00.000Z",
+      "venue": "Bangalore",
+      "id": 6
+    },
+    {
+      "teamOne": "Chennai Super Kings",
+      "teamTwo": "Mumbai Indians",
+      "trophy": "Team 2",
+      "conclusion": "Mumbai indians Won by 41 runs",
+      "date": "2015-05-23T18:30:00.000Z",
+      "venue": "Kolkata",
+      "id": 7
+    },
+    {
+      "teamOne": "Punjab Kings",
+      "teamTwo": "Kolkata Knight Riders",
+      "trophy": "Team 2",
+      "conclusion": "Kolkata Knight Riders won by 3 wickets.",
+      "date": "2014-05-31T18:30:00.000Z",
+      "venue": "Bangalore",
+      "id": 8
+    },
+    {
+      "teamOne": "Chennai Super Kings",
+      "teamTwo": "Mumbai Indians",
+      "trophy": "Team 2",
+      "conclusion": "Mumbai Indian won by 23 runs.",
+      "date": "2013-05-25T18:30:00.000Z",
+      "venue": "Kolkata",
+      "id": 9
+    },
+    {
+      "teamOne": "Kolkata Knight Riders",
+      "teamTwo": "Chennai Super Kings",
+      "trophy": "Team 1",
+      "conclusion": "Kolkata Knight Riders won by 5 wickets.",
+      "date": "2012-05-26T18:30:00.000Z",
+      "venue": "Chennai",
+      "id": 10
+    },
+    {
+      "teamOne": "Chennai Super Kings",
+      "teamTwo": "Royal Challengers Bangalore",
+      "trophy": "Team 1",
+      "conclusion": "Chennai Super Kings won by 58 runs",
+      "date": "2011-05-27T18:30:00.000Z",
+      "venue": "Chennai",
+      "id": 11
+    },
+    {
+      "teamOne": "Mumbai Indians",
+      "teamTwo": "Chennai Super Kings",
+      "trophy": "Team 2",
+      "conclusion": "Chennai Super Kings won by 22 runs",
+      "date": "2010-04-24T18:30:00.000Z",
+      "venue": "Mumbai",
+      "id": 12
+    },
+    {
+      "teamOne": "Deccan Chargers",
+      "teamTwo": "Royal Challengers Bangalore",
+      "trophy": "Team 1",
+      "conclusion": "Deccan Chargers won by 6 runs.",
+      "date": "2009-05-23T18:30:00.000Z",
+      "venue": "Johannesburg",
+      "id": 13
+    },
+    {
+      "teamOne": "Chennai Super Kings",
+      "teamTwo": "Rajasthan Royals",
+      "trophy": "Team 2",
+      "conclusion": "Rajasthan Royals won by 3 wickets.",
+      "date": "2008-05-31T18:30:00.000Z",
+      "venue": "Mumbai",
+      "id": 14
+    }
+   
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
